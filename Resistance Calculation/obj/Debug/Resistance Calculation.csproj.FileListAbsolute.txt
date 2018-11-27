@@ -1,0 +1,17 @@
+C:\Users\imdecoder\source\repos\Resistance Calculation\Resistance Calculation\bin\Debug\Resistance Calculation.exe.config
+C:\Users\imdecoder\source\repos\Resistance Calculation\Resistance Calculation\bin\Debug\Resistance Calculation.exe
+C:\Users\imdecoder\source\repos\Resistance Calculation\Resistance Calculation\bin\Debug\Resistance Calculation.pdb
+C:\Users\imdecoder\source\repos\Resistance Calculation\Resistance Calculation\obj\Debug\Resistance Calculation.csprojAssemblyReference.cache
+C:\Users\imdecoder\source\repos\Resistance Calculation\Resistance Calculation\obj\Debug\Resistance_Calculation.FormMain.resources
+C:\Users\imdecoder\source\repos\Resistance Calculation\Resistance Calculation\obj\Debug\Resistance_Calculation.Properties.Resources.resources
+C:\Users\imdecoder\source\repos\Resistance Calculation\Resistance Calculation\obj\Debug\Resistance Calculation.csproj.GenerateResource.cache
+C:\Users\imdecoder\source\repos\Resistance Calculation\Resistance Calculation\obj\Debug\Resistance Calculation.csproj.CoreCompileInputs.cache
+C:\Users\imdecoder\source\repos\Resistance Calculation\Resistance Calculation\obj\Debug\Resistance Calculation.exe
+C:\Users\imdecoder\source\repos\Resistance Calculation\Resistance Calculation\obj\Debug\Resistance Calculation.pdb
+C:\Users\imdecoder\source\repos\Resistance Calculation\Resistance Calculation\obj\Debug\Resistance_Calculation.FormHome.resources
+C:\Users\imdecoder\source\repos\Resistance Calculation\Resistance Calculation\bin\Debug\tr\Resistance Calculation.resources.dll
+C:\Users\imdecoder\source\repos\Resistance Calculation\Resistance Calculation\bin\Debug\en\Resistance Calculation.resources.dll
+C:\Users\imdecoder\source\repos\Resistance Calculation\Resistance Calculation\obj\Debug\Resistance_Calculation.Languages.Res.tr.resources
+C:\Users\imdecoder\source\repos\Resistance Calculation\Resistance Calculation\obj\Debug\Resistance_Calculation.Languages.Res.en.resources
+C:\Users\imdecoder\source\repos\Resistance Calculation\Resistance Calculation\obj\Debug\tr\Resistance Calculation.resources.dll
+C:\Users\imdecoder\source\repos\Resistance Calculation\Resistance Calculation\obj\Debug\en\Resistance Calculation.resources.dll
