@@ -50,6 +50,7 @@ namespace Resistance_Calculation
         {
             cul = CultureInfo.CreateSpecificCulture("tr");
             switchForm();
+            //TR değil, Türkiye olmalı.
         }
 
         private void picEN_Click(object sender, EventArgs e)
